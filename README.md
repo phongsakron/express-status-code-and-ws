@@ -5,11 +5,11 @@
 ### Hello World
 
 `GET /api/v1`
-> random duration in [200, 2000,12000] ms
 
 ### Return status code random duration
 
 `GET /api/v1/:codes`
+> random duration in [200, 2000,12000] ms
 
 ### Return status code with specified duration
 
